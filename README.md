@@ -163,6 +163,9 @@ python Server.py --port 3000
 - Check that WebSocket port (3001) is not blocked
 - Ensure your browser supports WebSocket connections
 - Verify that the `index.html` file contains the `</body>` tag for script injection
+- When still having cache issues try browser-Side Manual Fix: Forcing your browser to ignore its cache for a single request.
+  On Windows/Linux: `Ctrl + Shift + R` or `Ctrl + F5`
+  On Mac: `Cmd + Shift + R`
 
 ### Browser Compatibility
 
