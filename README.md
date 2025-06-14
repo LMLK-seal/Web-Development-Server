@@ -1,4 +1,4 @@
-# 🚀 Professional Development Server
+# 🚀 Professional Web Development Server
 
 A lightweight, feature-rich development server designed for modern web applications with automatic live reload, anti-caching headers, and SPA (Single Page Application) routing support.
 
